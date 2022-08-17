@@ -11,7 +11,7 @@
   <hr />
   <h3 class="text">Edit counter:</h3>
   <hr />
-  <div>
+  <div class="edit-counter">
     <input v-model="storeCounter.count" type="number" />
   </div>
 </template>
@@ -38,4 +38,5 @@ h3 {
   justify-content: center;
   font-size: 30px;
 }
+
 </style>
