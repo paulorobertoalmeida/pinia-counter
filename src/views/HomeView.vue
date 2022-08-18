@@ -25,6 +25,7 @@ const storeCounter = useCounterStore();
 
 <style>
 .count {
+  
   font-size: 80px;
   margin: 20px;
 }
