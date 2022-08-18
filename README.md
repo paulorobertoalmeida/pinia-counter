@@ -28,3 +28,4 @@ npm run dev
 npm run build
 ```
 # pinia-counter
+# todo-pinia-supabase
